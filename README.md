@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Podróże</title>
 </head> 
 <body>
 <img src="https://www.national-geographic.pl/media/cache/default_view/uploads/media/default/0001/92/21182a30cd88fd9fdbc77376d535ee4b1a233090.jpeg" align="right">
